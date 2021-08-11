@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 😊 I’m 24 with no work experience 🤪
 - 👀 I’m interested in Data Science,Machine learning, Data Mining, Data Visualization and Programing
-- ❤️ I like Linux 
+- ❤️ I love Linux 
 - 🌱 I’m currently open to work
 - 📫 How to reach me nvakhilnair@gmail.com
 ## 🛠 Skills
