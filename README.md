@@ -3,19 +3,22 @@
 
   
 ## 🚀 About Me
-- 😊 I’m 24 with no work experience 🤪
-- 👀 I’m interested in Data Science,Machine learning, Data Mining, Data Visualization and Programing
-- ❤️ I love Linux 
+- 😊 I’m 24
+- Experienced in developing end-end NLP/ML projects and there deployment
+- 👀 I’m interested in NLP, ML Projects
+- ❤️ I love Linux
 - 🌱 I’m currently open to work
 - 📫 How to reach me nvakhilnair@gmail.com
 ## 🛠 Skills
+- Exploratory Data Analysis
 - Data Cleaning
+- Data Mining
 - Machine Learning
 - NLP
-- Statistical Programming
-- Exploratory Data Analysis
-- Data Mining
+- Django
 - SQL
+- AWS (EC2 instance)
+- Statistical Programming
 
 ## 🛠 Tools
 - Tableau
