@@ -9,8 +9,9 @@
 - 🌱 I’m currently open to work
 - 📫 How to reach me nvakhilnair@gmail.com
 ## 🛠 Skills
-- Data Science
+- Data Cleaning
 - Machine Learning
+- NLP
 - Statistical Programming
 - Exploratory Data Analysis
 - Data Mining
