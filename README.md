@@ -4,7 +4,7 @@
   
 ## 🚀 About Me
 - 😊 I’m 24
-- Experienced in developing end-end NLP/ML projects and there deployment
+- Experience in developing end-end NLP/ML projects and there deployment
 - 👀 I’m interested in NLP, ML Projects
 - ❤️ I love Linux
 - 🌱 I’m currently open to work
